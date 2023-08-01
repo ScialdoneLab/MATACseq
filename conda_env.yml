@@ -1,0 +1,7 @@
+name: nanopore_sequencing
+channels:
+  - bioconda
+  - pytorch
+  - conda-forge
+  - defaults
+prefix: /Users/karoline.holler/anaconda3/envs/nanopore_sequencing
