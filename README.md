@@ -1,4 +1,3 @@
 # MATACseq
 
-This repository will contain notebooks and processed binary data to reproduce the results of our MATAC-paper. Until it is fininished, please go to KarolineHoller/nanaopore_methylation and ask for access there, which will be happily granted.
-Thanks for your understanding.
+This repository contains notebooks and processed binary data from nanopore sequencing to reproduce the results of our MATAC-seq manuscript (https://www.biorxiv.org/content/10.1101/2023.03.14.532513v1). 
